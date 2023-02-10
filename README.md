@@ -68,13 +68,22 @@ Next, switch from the R 'Console' to the 'Terminal' tab and tell git who you are
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 ```
-screw your testing 
+
 
 ## Find the problems
 
 Run the package checks in the root directory by clicking on 'Check' in
 the 'Build' tab of RStudio and inspect the output to find errors and warnings.
 
+I cannot find any problems so I'm going to invent them!
+```
+Mladen <- FALSE
+
+if(Mladen){
+print(" made mistakes")
+stop()
+}
+```
 
 ## Fix the problems
 
