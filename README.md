@@ -75,7 +75,7 @@ screw your testing
 Run the package checks in the root directory by clicking on 'Check' in
 the 'Build' tab of RStudio and inspect the output to find errors and warnings.
 
-anne
+anne - making an edit!
 ## Fix the problems
 
 4. Divide the problems with you collaborators.
