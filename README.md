@@ -77,11 +77,13 @@ the 'Build' tab of RStudio and inspect the output to find errors and warnings.
 
 I cannot find any problems so I'm going to invent them!
 ```
-Mladen <- FALSE
+Mladen <- TRUE
 
 if(Mladen){
-print(" made mistakes")
+print(" made mistakes \n")
 stop()
+} else {
+print(" no mistakes \n")
 }
 ```
 
