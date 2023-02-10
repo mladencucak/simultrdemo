@@ -75,17 +75,6 @@ git config --global user.name "Your Name"
 Run the package checks in the root directory by clicking on 'Check' in
 the 'Build' tab of RStudio and inspect the output to find errors and warnings.
 
-I cannot find any problems so I'm going to invent them!
-```
-Mladen <- TRUE
-
-if(Mladen){
-print(" made mistakes \n")
-stop()
-} else {
-print(" no mistakes \n")
-}
-```
 
 ## Fix the problems
 
