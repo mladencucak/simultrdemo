@@ -68,7 +68,7 @@ Next, switch from the R 'Console' to the 'Terminal' tab and tell git who you are
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 ```
-
+test
 
 ## Find the problems
 
